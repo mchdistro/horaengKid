@@ -191,9 +191,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 376,
+            "size": 413,
             "url": "https://github.com/mchdistro/horaengKid/raw/main/servers/horaengKid-1.20.1/files/options.txt",
-            "MD5": "78d1d392022fc106624b3693d1d26d9a",
+            "MD5": "836f30291d764a005a6721ae076ba140",
             "path": "options.txt"
           }
         },
