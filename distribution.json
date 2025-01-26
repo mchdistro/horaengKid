@@ -193,7 +193,6 @@
           "artifact": {
             "size": 413,
             "url": "https://github.com/mchdistro/horaengKid/raw/main/servers/horaengKid-1.20.1/files/options.txt",
-            "MD5": "836f30291d764a005a6721ae076ba140",
             "path": "options.txt"
           }
         },
@@ -204,7 +203,6 @@
           "artifact": {
             "size": 42,
             "url": "https://github.com/mchdistro/horaengKid/raw/main/servers/horaengKid-1.20.1/files/optionsshaders.txt",
-            "MD5": "4ae51699aa89bb5cfc84eb3e3cc01228",
             "path": "optionsshaders.txt"
           }
         },
